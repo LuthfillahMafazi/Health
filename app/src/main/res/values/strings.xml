@@ -1,0 +1,457 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string-array name="sakit_ringan">
+        <item>1. Sakit Kepala</item>
+        <item>2. Flu</item>
+        <item>3. Batuk</item>
+        <item>4. Asam urat (Gout)</item>
+        <item>5. Sakit Perut</item>
+    </string-array>
+
+    <string-array name="detail_sakit_ringan">
+        <item>. Sakit kepala tegang (tension headache) \n \n
+Ini adalah kondisi yang paling sering dialami orang. Bahkan banyak orang menyebutnya sebagai sakit kepala “sehari-hari” karena hampir semua orang pasti pernah mengalaminya dalam beberapa kali hidup mereka.
+
+Anda mungkin akan mengalami sakit kepala sebelah kanan secara konstan. Rasa sakit pada bagian kanan kepala ini merupakan jenis yang paling umum, meskipun belum ditemukan kejelasan pasti penyebabnya. Selain itu, Anda juga mungkin merasa kaku di belakang leher dan otot bahu kemudian menyebar ke depan, dan merasa adanya tekanan di belakang mata Anda bersamaan dengan tekanan pada rahang Anda.
+
+Kondisi ini dapat pada siapa saja dan pada usia berapa pun, tetapi tidak cukup parah untuk mengganggu kehidupan sehari-hari Anda. Dalam banyak kasus, sakit kepala sebelah kanan akan hilang setelah 30 menit hingga beberapa hari. \n \n
+
+2. Migrain \n \n
+Migrain adalah serangan sakit kepala sebelah berulang yang diikuti rasa nyeri yang biasanya parah dan sering membuat penderitanya tidak berdaya. Banyak orang menyebut kondisi ini sebagai sakit kepala sebelah.
+
+Rasa sakitnya berdenyut intens atau berupa rasa sakit ekstrem seperti dihantam oleh benda keras. Walaupun begitu, kondisi ini tergolong sebagai gangguan neurologis turunan akibat ketahanan yang lebih rendah terhadap rangsangan penyebab migrain, berbeda dari sakit kepala biasa ataupun cluster.
+
+Selain merasakan sakit kepala sebelah, beberapa orang juga mengalami mual, muntah, atau sensitivitas terhadap suara bising atau cahaya. Kondisi ini terbilang umum karena dapat memengaruhi sekitar 1 dari setiap 5 wanita dan sekitar 1 dari setiap 15 orang pada pria.
+
+Sakit kepala sebelah dikatakan serius bila berlangsung dari 4 jam sampai 3 hari dan disertai dengan gejala lainnya yang sangat parah hingga menghambat Anda untuk beraktivitas normal. Sakit kepala sebelah juga dikatakan parah jika penderita memiliki riwayat serangan setidaknya 2-5 kali serangan dengan pola yang sama. \n \n
+
+3. Sakit kepala cluster \n \n
+Sama seperti migrain, kondisi ini juga menyebabkan sakit kepala sebelah di salah satu sisi kepala. Bedanya, rasa nyeri yang intens terjadi secara tiba-tiba dan cenderung muncul di belakang mata atau area sekitar mata.
+
+Selain nyeri yang intens, gejala lainnya dari kondisi ini adalah mata memerah dan berair, pupil mengecil, serta hidung berair. Kondisi ini terbilang umum, akan tetapi paling parah di antara jenis lainnya.
+
+Setiap serangan sakit kepala sebelah dapat berlangsung 15 menit hingga 3 jam dan sering membangunkan pasien dari tidur karena rasa sakitnya bisa sangat buruk dan intens. Gejala kondisi ini bisa terjadi setiap hari, dan berlangsung beberapa minggu atau bulan pada satu waktu, sebelum reda.
+
+Kondisi ini mungkin akan hilang sepenuhnya selama berbulan-bulan atau bertahun-tahun, tapi bisa saja sesekali kembali lagi. Pria 3-4 kali lebih sering terkena kondisi ini daripada wanita. \n \n
+
+4. Sakit kepala sinus \n \n
+Gejala khas dari kondisi ini adalah nyeri yang intens dan konstan di tulang pipi, dahi, atau batang hidung Anda. Terkadang, gejala sakit yang dirasakan hampir mirip dengan gejala migrain. Kondisi ini disebabkan akibat adanya infeksi virus, seperti virus flu.
+
+Virus ini akan menyebar ke rongga sinus dari saluran pernapasan atas, sehingga pada akhirnya menyebabkan dinding sinus (ruang kecil di bagian tengkorak) mengalami peradangan.
+
+Rasa sakit biasanya datang bersamaan dengan gejala sinus lainnya, seperti hidung meler atau tersumbat, telinga berdenging, demam, serta sakit tenggorokan. \n \n
+
+5. Sakit kepala hormon \n \n
+Kondisi ini sering terjadi pada wanita khususnya saat mendekati atau selama siklus menstruasi atau menopause. Pemicu lainnya mungkin setelah kehamilan atau saat mengonsumsi pil KB.
+
+Meski sakit kepala belakang ataupun sebelah tidak mengancam jiwa, namun kondisi ini bisa jadi tanda adanya kondisi kesehatan yang lebih serius, seperti stroke.
+
+Itu sebabnya, jika Anda mencurigai memiliki gejala yang sudah disebutkan di atas berulang kali dan tidak juga kunjung membaik dalam beberapa waktu, ada baiknya Anda segera konsultasi ke dokter</item>
+
+        <item>Jenis penyakit flu atau influenza \n \n
+Penyakit flu atau influenza terbagi menjadi beberapa kelompok berdasarkan virus yang menyebabkan penyakit ini terjadi. Ada tiga jenis virus yang menyebabkan seseorang mengalami sakit flu, yaitu tipe A, tipe B dan tipe C.\n \n
+
+Virus flu tipe A \n
+Virus tipe A adalah virus yang mampu menginfeksi manusia dan berbagai hewan, seperti burung, babi, kuda, dan beberapa jenis hewan lain. Tetapi burung liar adalah tempat hidup alami dari virus ini. Tipe virus ini dapat menyebabkan penyakit influenza atau flu menjadi pandemik, atau menginfeksi sebagian besar masyarakat dan menyebar ke berbagai daerah sehingga menyebabkan kejadian luar biasa. Virus tipe A dibagi menjadi dua berdasarkan jenis protein yang dimilikinya, yaitu hemagglutinin (HA) dan neuraminidase (NA). Saat ini terdapat 15 jenis virus HA dan 9 jenis virus NA yang diketahui.
+
+Banyaknya virus yang ditularkan oleh hewan saat ini, diakibatkan karena hewan-hewan tersebut terinfeksi virus tipe A. Contohnya flu burung yang sempat menjadi wabah dan ditakutkan oleh penduduk dunia. Tidak hanya itu, virus flu tipe A juga dianggap sebagai virus flu yang paling berbahaya, karena bisa bermutasi dan bergabung dengan virus lain kemudian menjadi tipe virus baru.
+
+Penyebaran virus tipe A dapat terjadi melalui kontak tubuh yang terjadi dengan orang yang terinfeksi, melalui air liur penderita, atau tertular ketika penderita bersin. \n \n
+
+Virus flu tipe B \n \n
+Tidak sama seperti virus tipe A, tipe B hanya dapat menginfeksi manusia saja dan biasanya tidak menimbulkan gejala yang parah seperti virus tipe A, tetapi tetap saja berbahaya. Virus tipe B menyebabkan epidemik, yaitu dapat menularkan dan ditularkan, tetapi virus ini tidak menyebabkan penyakit menyebar dengan cepat dan meluas ke daerah lain. \n \n
+
+Virus tipe C \n \n
+Virus tipe C adalah virus dengan tingkat infeksi yang paling rendah dibandingkan dengan jenis virus flu lainnya, sehingga tidak menyebabkan sakit flu yang parah. Selain itu, virus tipe C juga tidak menyebabkan epidemik, yaitu kondisi penyebaran virus yang cepat dari orang ke orang. Sangat jarang ada pasien yang mengalami komplikasi akibat terinfeksi virus ini, tetapi jika memang virus tipe C tidak ditangani dengan baik maka pasien tersebut berisiko untuk mengalami pneumonia dan bronkitis.</item>
+
+        <item>Batuk adalah kondisi normal yang bisa terjadi oleh siapa saja dan kapan saja. Banyak hal yang bisa menyebabkan batuk, tapi sebenarnya batuk adalah cara tubuh untuk melegakan tenggorokan serta menyingkirkan sesuatu hal yang mungkin saja menghalangi saluran perpanasan. Ketika zat asing tersebut masuk ke dalam tubuh dan tersangkut di tenggorokan maka secara otomatis Anda akan terbatuk. \n \n
+
+Namun terkadang gejala batuk yang terjadi tidak sesederhana yang Anda anggap. Jangan pernah sepelekan gejala kecil, bahkan batuk. Karena batuk bisa saja merupakan tanda dan gejala dari suatu penyakit. Apa saja jenis batuk yang harus Anda tahu? Dan apa artinya? \n\n
+
+1. Post-nasal drip \n\n
+Di dalam hidung dan tenggorokan terdapat lendir yang bertugas untuk menjaga kelembaban serta mencegah kekeringan. Pada kondisi post nasal drip, lendir yang ada di sekitar hidung dan tenggorokan terlalu banyak. Hal ini menyebabkan saluran tenggorokan menjadi tersumbat, oleh karena itu batuk bisa terjadi.
+
+Jika Anda mengalami kondisi ini maka batuk yang Anda alami bisa berupa batuk kering maupun batuk berdahak. Lendir yang berkumpul dan terakumulasi biasanya terjadi ketika Anda berada di suhu yang dingin atau alergi terhadap sesuatu.
+
+Batuk jenis ini biasanya akan bertambah parah ketika malam hari. Anda juga akan sering merasa gatal pada mata serta bersin-bersin. Cobalah untuk pergi ke dokter, biasanya bila Anda mengalami alergi maka dokter akan memberikan obat anti-histamin untuk mengatasi batuk yang muncul. Jika hal ini terjadi karena Anda merasa kedinginan maka Anda bisa mengatasinya dengan menghangatkan diri Anda dengan menggunakan baju hangat atau makan dan minum sesuatu yang hangat. Tetapi jika Anda tetap batuk dalam beberapa minggu maka Anda harus periksakan diri ke dokter. \n\n
+
+2. Batuk asma \n\n
+Batuk ini merupakan salah satu gejala yang bisa timbul pada penderita asma. Jenis batuk yang dialami oleh penderita asma adalah batuk kering dan diiringi dengan mengi. Penderita asma memiliki peradangan pada saluran napasnya dan hal ini menyebabkannya susah untuk bernapas, sehingga sering batuk.
+
+Selain itu, gejala yang biasanya juga dialami oleh penderita asma adalah batuk yang semakin parah di malam hari, merasa kelelahan, serta sesak dada. Untuk mengatasi batuk yang timbul akibat asma, maka penderita harus memeriksakan diri ke dokter. Kemudian biasanya dokter akan memberikan obat-obatan yang bisa membuat saluran napas lebih lega. \n\n
+
+3. Batuk karena asam lambung \n\n
+GERD alias gastroesophagal reflux disease lebih dikenal dengan gangguan refluks asam lambung. Orang yang mengalami GERD ternyata tidak hanya bermasalah pada saluran pencernaannya saja, namun juga pada sistem pernapasan, sehingga menyebabkan batuk.
+
+Pada kondisi normal, asam lambung hanya akan berada di perut saja. Tapi kali ini asam lambung naik hingga ke tenggorokan, sehingga menyebabkan tenggorokan tidak nyaman dan akhirnya batuk. Batuk yang dialami adalah batuk kronis, dan menurut sebuah studi, batuk yang kronis paling sering terjadi karena GERD. Batuk akan semakin parah jika sedang berbaring atau makan.
+
+Diketahui bahwa sebanyak 75% dari pasien GERD yang diteliti pada studi tersebut mengalami batuk kronis, suara serak, juga rasa mulas. Kondisi batuk kronis ini bisa diatasi dengan cara mengatasi GERD-nya terlebih dahulu, karena batuk merupakan gejala yang muncul akibat penyakit ini. \n\n
+
+4. Penyakit Paru Obstruksi Kronik (PPOK) \n\n
+Penyakit paru obstruktif kronik (PPOK) adalah penyakit kronis pada paru yang ditandai dengan adanya penyumbatan saluran napas serta masalah pada kantung-kantung udara di paru-paru. Salah satu gejala yang paling sering ditemukan pada penderita PPOK adalah batuk berdahak dalam jangka lama dan paling sering terjadi ketika pagi hari. Biasanya batuk berdahak akan diiringi dengan gejala lain seperti sesak napas, mengi, kelelahan, serta merasa sesak pada dada. \n\n
+
+5. Batuk akibat obat \n\n
+Jika Anda mengalami batuk yang kering dan sedang mengonsumsi obat tekanan darah tinggi, mungkin saja batuk tersebut diakibatkan oleh obat yang Anda makan. Sebanyak 20% obat hipertensi bisa menyebabkan batuk kering dan akan muncul ketika beberapa saat mengonsumsi obat tersebut. Jika batuk yang muncul ternyata parah, maka Anda harus memeriksakan diri ke dokter dan mendikusikan obat hipertensi yang tepat untuk menggantikan obat sebelumnya. \n\n
+
+6. Pneumonia \n\n
+Awalnya timbul gejala batuk kering, kemudian beberapa hari setelahnya menjadi batuk berdahak dengan dahak berwarna hijau, kuning, atau merah kebiruan. Tidak hanya itu, penderita pneumonia juga mnegalami demam, sulit bernapas, dan merasa nyeri ketika mengambil napas yan terlalu dalam. Penyakit ini disebabkan oleh virus dan bakteri, sehingga dokter akan memberikan obat untuk mengatasi gejala serta tanda yang muncul. \n\n
+
+7. Batuk rejan atau pertusis \n\n
+Batuk rejan adalah penyakit infeksi yang sangat mudah sekali menular. Jika seseorang mengalami penyakit ini maka gejala yang akan dialami adalah batuk yang keras dengan tarikan napas awal yang panjang melalui mulut. Batuk dapat terjadi hingga 3 bulan ke depan dan terkadang diiringi dengan gejala lain seperti hidung meler, mata berair, demam, serta merasa pengap.
+    </item>
+
+        <item>Apa itu penyakit asam urat? \n\n
+Penyakit asam urat adalah bentuk dari penyakit arthritis yang menyebabkan kemerahan, pembengkakan, dan rasa sakit yang datang secara tiba-tiba pada sendi tubuh Anda. Kadang ada pula orang awam yang menyebutnya sebagai encok, namun ini tidak sepenuhnya tepat. \n\n
+
+Jempol kaki merupakan bagian yang paling sering terkena asam urat, tetapi penyakit ini juga dapat memengaruhi sendi lain di kaki, seperti lutut, pergelangan kaki, telapak kaki. Asam urat juga kadang terjadi di lengan, tangan, pergelangan tangan, dan siku. Tulang belakang juga bisa terkena meskipun jarang. \n\n
+
+Meski penyakit asam urat ini dapat menjadi penyakit kronis, kondisi ini bisa disembuhkan dan dicegah agar tidak kambuh. Kondisi ini dapat dikelola dengan mengurangi beberapa faktor gaya hidup. Silakan diskusikan dengan dokter Anda untuk informasi lebih lanjut. \n\n
+
+            Tanda-tanda &amp;  gejala \n
+Apa saja gejala asam urat? \n\n
+Dalam beberapa kasus, penyakit asam urat tidak menunjukkan gejala apapun pada awalnya. Gejala asam urat biasanya mulai muncul ketika penderita sudah mengalami kondisi yang akut atau justru kronis. Gejala yang paling umum adalah: \n\n
+
+            • Nyeri sendi parah dan mendadak, yang sering pertama terjadi di pagi hari \n
+            • Sendi bengkak dan lunak \n
+            • Sendi kemerahan \n
+            • Rasa panas di sekitar sendi \n\n
+Gejala asam urat biasanya muncul tiba-tiba, tidak dapat diprediksi, dan sering terjadi di tengah malam. Sebagian besar gejala asam urat hanya terjadi dalam beberapa jam selama 1-2 hari. Namun pada kasus yang parah, nyeri pada sendi bisa saja terjadi dalam waktu berminggu-minggu. Jika Anda mengalami gejala ini, maka encok yang Anda miliki cukup parah. \n\n
+
+Sementara, ada pula yang merasakan gejala encok hingga 6-12 bulan – dalam intensitas yang berbeda tiap harinya. Kondisi ini, cukup parah, dan bila Anda mengalaminya, lebih baik segera periksakan diri ke dokter. \n\n
+
+Kemungkinan ada tanda­-tanda dan gejala yang tidak disebutkan di atas. Bila Anda memiliki kekhawatiran akan sebuah gejala tertentu, konsultasikanlah dengan dokter Anda. \n\n
+
+            Penyebab \n
+Apa saja yang bisa jadi penyebab asam urat? \n\n
+Jadi sebenarnya, penyebab asam urat adalah kadar asam urat itu sendiri yang terlalu banyak di dalam tubuh. Dalam keadaan normal, zat kimia ini akan dikeluarkan oleh tubuh melalui urin dan tinja. \n\n
+
+Tetapi, pada orang yang mengalami asam urat, jumlah asam uratnya terlalu banyak dan tidak dapat diolah oleh tubuh. Pada akhirnya, zat tersebut akan membentuk kristal dan menumpuk di sekitar sendi, lalu menimbulkan peradangan. \n\n
+
+Lalu apa yang menjadi penyebab asam urat di dalam tubuh tinggi? Penyebab asam urat terlampau tinggi adalah terlalu sering dan banyak mengonsumsi makanan yang mengandung purin. Purin adalah suatu zat kimia yang diproduksi secara alami oleh tubuh, namun terkandung juga di dalam beberapa jenis makanan. \n\n
+
+Ketika seseorang mengonsumsi makanan yang mengandung purin, maka tubuh akan mengolahnya menjadi asam urat. Sehingga, semakin banyak makan makanan yang mengandung purin, semakin tinggi risiko Anda untuk mengalami asam urat.
+        </item>
+
+        <item>Macam-Macam Sakit Perut \n\n
+Berikut tujum macam sakit perut yang perlu Anda Anda ketahui: \n\n
+
+            1. Maagn \n\n
+Gejala maag: Biasanya terasa nyeri di derah ulu hati, disertai keluhan lain seperti mual, muntah, perut kembung, cepat kenyang, dan bersendawa – terutama ketika Anda lapar. \n\n
+
+Penyebab maag: Penyakit perut ini bermacam-macam, bisa karena makanan, terutama makanan yang mengandung gas seperti kol, ubi, dan sawi. Atau bisa juga disebabkan minuman seperti kopi, alkohol, dan soda. Selain faktor makanan, maag bisa dihubungan dengan faktor stres, merokok, dan konsumsi obat-obat penghilang rasa sakit termasuk obat rematik. \n\n
+
+Pengobatan maag: Sebenarnya obat-obatan anti-maag atau aobat sdakit perut yang mengandung antasida cukup untuk mengatasi gejalanya. Antasida ini berfungsi untuk menetralisir asam lambung. Tapi jika rasa sakit itu tidak berkurang, barangkali Anda perlu menemui dokter. Jangan lupa, kurangi makanan yang bisa mengganggu kinerja lambung-makanan yang terlalu asam atau terlalu pedas. Dan mulai sekarang, makanlah dengan teratur. \n\n
+
+
+2. Batu empedu \n
+Gejala batu empedu: Mereka yang memiliki batu pada kandung empedu biasanya merasakan nyeri ulu hati yang hilang timbul. Kadang kala, rasa nyeri itu seolah menjalar ke bagian belakang tubuh. \n\n
+
+Penyebab baru empedu: Makanan berlemak atau bisa juga dikaitkan dengan kadar kolesterol yang terlalu tinggi. Batu empedu adalah endapan kolesterol, bilirubin, atau garam kalsium lainnya yang terbentuk di kantung empedu atau di dekat saluran empedu. \n\n
+
+Pengobatan batu empedu: Jika pada pemeriksaan dokter, yaitu dengan USG abdomen sudah dipastikan adanya batu pada kandung empedu, maka sebaiknya Anda harus dioperasi. Apalagi jika batu itu batu kalsium atau batu non-kalsium yang terlanjur membesar dan mengeras. \n\n
+
+3. Usus buntu \n
+
+Gejala usus buntu: Nyeri pada perut bagian kanan bawah. Biasanya disertai mual dan muntah, serta nyeri terus-menerus. Kadang kala, rasa nyerinya akan bertambah hingga tiga kali lipat ketika Anda harus berjalan. Badan Anda akan terasa tidak enak dan meriang. Akibat rasa sakit yang hebat, kadang kala Anda tak sadar untuk memegangi terus bagian perut bagian kanan bawah sambil mengaduh. \n\n
+
+Penyebab usus buntu: Kuman atau bakteri yang masuk. Jadi jika Anda menyangka penyebabnya adalah akibat terlalu banyak makan cabai atau biji-bijian, Anda termakan mitos. \n\n
+
+Pengobatan usus buntu: Jika Anda mengalami gejala sakit pada perut di bagian kanan bawah, segeralah ke dokter. Pastikan apakah gejala ini merupakan infeksi usus buntu (apendisitis akut). Jika ya, barangkali Anda harus menginap di rumah sakit untuk operasi. Operasi merupakan cara terbaik karena jika masalah ini didiamkan saja, maka ada kemungkinan usus tersebut pecah, infeksi menyebar ke seluruh perut, yang akibatnya sangat fatal. \n\n
+
+4. Kolera \n
+Gejala kolera: Perut Anda seperti ditekan, merasa nyeri terutama di perut bagian bawah, lalu diikuti kejang otot perut. Perasaan mual dan muntah-muntah biasanya datang setelah mencret. Kolera sering juga disebut dengan penyakit muntaber karena gejala utamanya adalah muntah dan BAB. \n\n
+
+Penyebab kolera: Kuman Vibrio cholerae yang punya nama lain Bacillus coma. Kuman ini disebarkan melalui makanan dan minuman yang tercemar. \n\n
+
+Pengobatan: Ganti cairan tubuh yang hilang dengan garam oralit. Bila kehilangan cairan tubuh cukup banyak dan penderita sudah tidak dapat menerima cairan dari mulut, maka cairan pengganti diberikan melalui infus. \n\n
+
+5. Batu ginjal \n
+Gejala batu ginjal: Nyeri pada perut kiri atau kanan bawah yang menjalar menuju penis. Jika batu ginjal ini menyerang, boleh jadi Anda akan mengalami rasa nyeri yang luar biasa hebat akibat saluran kemih (yang mirip selang) akan meregang kuat akibat menahan air seni yang tak bisa keluar. \n\n
+
+Penyebab batu ginjal: Batu di saluran kencing (batu ureter). Nyeri yang dirasakan hilang timbul dan intensitas rasa sakitnya akan makin bertambah hebat ketika Anda kebelet kencing. \n\n
+
+Pengobatan batu ginjal: Sebenarnya penghilang rasa sakit yang dijual bebas dapat diminum untuk mengurangi rasa nyeri. Tapi tentu saja itu tergantung intensitas rasa sakitnya, jika terlalu hebat, pasrah saja. Pergi ke dokter merupakan langkah cerdas untuk mendapatkan obat penghilang rasa sakit yang biasanya diberikan melalui suntikan. Atau jika batunya terlalu besar dan keras, maka prosedur operasi akan dilakukan untuk menyelesaikan masalah. Ini adalah pelajaran agar Anda rajin minum – terutama jika Anda bekerja di ruangan ber-AC. \n\n
+
+6. Sembelit \n
+Gejala sembelit: Nyeri pada perut yang hilang timbul, lokasinya berada di sekitar pusar. Nyeri ini muncul berkaitan dengan makanan yang Anda konsumsi atau akibat susah buang air besar (BAB). \n\n
+
+Penyebab sembelit: Akibat terlalu banyak mengonsumsi makanan tinggi lemak dan kurang makan sayur-sayuran. Pada kasus yang berat, jenis sakit perut ini bisa disebabkan karena adanya halangan mekanis pada usus seperti radang pada dinding usus, kanker, atau usus yang menonjol keluar. \n\n
+
+Pengobatan sembelit: Obat pencahar diminum sebagai obat sakit perut. Sesuaikan dengan penyebab sembelitnya, jika penyebabnya kotoran terlalu keras, beli obat sakit perut atau obat pencahar yang melunakkan tinja, atau pilihlah obat pencahar yang membuat saluran pencernaan terasa penuh sehingga menimbulkan rangsangan untuk BAB, atau pilihlah pencahar yang bisa menyerap cairan. \n\n
+
+7. Disentri \n
+
+Gejala disentri: Rasa mulas atau sakit perut barangkali hampir sama ketika istri Anda hendak melahirkan. Yang bikin kesal harus bolak-balik ke WC untuk BAB. Sehari mungkin Anda bisa 20 hingga 30 kali BAB, dan kotoran akan mencret serta berlendir. Terkadang, kotoran itu disertai darah. \n\n
+
+Penyebab disentri: Mengonsumsi makanan kotor yang telah terinfeksi kuman shigela disentri atau amuba usus. \n\n
+
+Pengobatan disentri: Untuk mengobatinya, terlebih dahulu Anda harus mengganti cairan yang telah keluar dengan garam oralit. Pemberian antibiotika sangat penting untuk membunuh kuman. Tapi tetap saja upaya pencegahan sakit perut lebih penting ketimbang pengobatan. Caranya adalah dengan menjaga kebersihan, membasmi lalat di rumah, serta menjaga makanan dan minuman dari kotoran.</item>
+    </string-array>
+
+    <string-array name="penyakit_berat">
+        <item>1. Batu ginjal</item>
+        <item>2. Stroke</item>
+        <item>3. Hipertensi</item>
+        <item>4. Serangan jantung</item>
+        <item>5. Radang sendi</item>
+        <item>6. Osteoporosis</item>
+        <item>7. Alzheimer</item>
+    </string-array>
+
+    <string-array name="detail_penyakit_berat">
+        <item>Apa Itu Batu Ginjal (Kencing Batu)? \n
+            Definisi \n\n
+            Batu di ginjal adalah endapan keras yang terbentuk dari zat yang ada di air kencing. Prosesnya disebut nephrolithiasis. Penyakit batu ginjal atau kencing batu ini biasanya berukuran sangat kecil atau bisa mencapai sekitar beberapa inci. Ukuran batu yang lebih besar yang mengisi saluran yang membawa kencing dari ginjal ke kandung kemih disebut batu staghorn. \n\n
+
+            Tanda-tanda &amp; gejala \n
+Apa saja gejala batu ginjal? \n\n
+Sepertiga dari orang-orang di dunia memiliki kondisi adanya batu pada ginjal mereka, tapi hanya setengahnya yang punya gejala batu ginjal. \n\n
+
+Meski tanpa gejala, batu pada  ginjal bisa menimbulkan masalah, seperti infeksi dan penyumbatan aliran kencing. Batu yang tersangkut di kandung kemih akan menyebabkan kencing batu dan memunculkan banyak gejala. \n\n
+
+Gejala batu ginjal yang biasanya terjadi adalah sakit luar biasa (urinary colic) yang datang dan pergi, dan biasanya bergerak dari bagian samping belakang (flank) ke bagian bawah perut (abdomen). Gejala batu ginjal umum lainnya termasuk : \n
+
+• Sakit pinggang, paha, selangkangan, dan kemaluan \n
+• Darah dalam urin \n
+• Mual dan muntah-muntah \n\n
+
+ Jika kencing batu yang disebabkan oleh batu kristal di ginjal menimbulkan infeksi, Anda harus segera periksakan ke dokter. Gejala batu ginjal lainnya  bisa berupa meriang, demam, berkeringat, dan buang air kecil yang sering, mendesak, serta terasa sakit. \n\n
+
+    Penyebab \n
+Apa penyebab batu ginjal? \n\n
+Penyebab batu ginjal atau kencing batu bisa terbentuk jika urin atau air kencing yang mengandung terlalu banyak bahan kimia. Bahan kimia tersebut seperti kalsium, asam urat, sistin, atau struvite (campuran fosfat, magnesium, dan ammonium). \n
+
+Melakukan diet yang sangat tinggi protein dan meminum terlalu sedikit air akan meningkatkan risiko penyebab batu ginjal muncul. Faktanya, sekitar 85% batu di ginjal penyebab kencing batu terbuat dari zat kalsium. Batu asam urat terjadi lebih sering jika Anda juga menderita encok. Batu struvite terbentuk lebih sering di dalam urin yang terinfeksi (batu infeksi). \n\n
+
+Jenis batu yang menyebabkan kencing batu\n
+Para dokter telah menemukan empat jenis kandungan utama dari penyebab batu ginjal: \n\n
+
+• Tumpukan kalsium \n
+Kencing batu sering disebabkan oleh batu ginjal yang mengandung kalsium. Kelebihan kalsium bisa menjadi penyebab batu ginjal. Pasalnya, kalsium yang tidak digunakan oleh tulang dan otot pergi ke ginjal. \n\n
+
+Pada kebanyakan orang, ginjal mengeluarkan ekstra kalsium bersamaan dengan sisa urin. Orang yang memiliki batu kalsium menyimpan kalsium dalam ginjal mereka.\n\n
+
+Kalsium yang tetap berada di belakang bergabung dengan produk-produk limbah lain untuk membentuk batu. Seseorang dapat memiliki kalsium oksalat dan batu kalsium fosfat, meskipun batu kalsium oksalat lebih umum. \n\n
+
+• Asam urat tinggi \n
+Sebuah batu asam urat juga bisa terbentuk ketika air seni mengandung terlalu banyak asam. Orang-orang yang makan banyak daging, ikan, dan kerang mungkin terkena batu asam urat. \n\n
+
+• Infeksi ginjal \n
+Batu struvite di ginjal, juga dapat terbentuk setelah Anda memiliki infeksi ginjal. \n\n
+
+• Faktor genetik \n
+Batu sistin adalah hasil dari kelainan genetik, yang berarti masalah diturunkan dari orangtua ke anak. Gangguan tersebut menyebabkan sistin bocor melalui ginjal dan ke dalam urin.
+</item>
+        <item>Definisi \n
+Apa itu  penyakit stroke? \n
+Penyakit stroke adalah penyakit yang terjadi ketika pasokan darah menuju otak terganggu atau sama sekali berkurang, sehingga jaringan otak kekurangan oksigen dan nutrisi. Dalam beberapa menit, sel-sel otak mulai mati. Penyakit ini merupakan kondisi yang dapat mengancam hidup seseorang dan dapat menimbulkan kerusakan permanen.  \n\n
+
+Ada 3 jenis kondisi \n
+1. Stroke iskemik\n\n
+
+Penyakit stroke iskemik adalah kondisi yang terjadi ketika pembuluh darah yang menyuplai darah ke area otak terhalang oleh bekuan darah. Jenis penyakit ini bertanggung jawab atas 87 persen dari total kasus penyakit ini \n\n
+
+Bekuan darah sering diakibatkan oleh aterosklerosis, yang merupakan penumpukan timbunan lemak di lapisan dalam pembuluh darah. Sebagian dari timbunan lemak ini bisa lepas dan memblokir aliran darah di otak Anda. Konsepnya mirip dengan serangan jantung, di mana gumpalan darah menghalangi aliran darah ke sebagian jantung Anda. \n\n
+
+Kondisi ini bersifat embolik, yang berarti bekuan darah berasal dari bagian lain di tubuh Anda dan kemudian berpindah menuju ke otak, lalu biasanya dari jantung dan arteri besar di dada bagian atas dan leher. \n\n
+
+Diperkirakan 15 persen kasus embolik ini disebabkan oleh kondisi yang disebut fibrilasi atrial In adalah sebuah kondisi yang membuat jantung Anda berdetak tidak teratur. Ini menciptakan kondisi di mana gumpalan bisa terbentuk di jantung, terlepas, dan berjalan ke otak. Bekuan darah yang menyebabkan kondisi ini tidak akan hilang tanpa pengobatan. \n\n
+
+2. Stroke hemoragik \n\n
+
+Penyakit stroke hemoragik terjadi saat pembuluh darah di otak mengalami kebocoran atau pecah. Stroke hemoragik menyumbang sekitar 13 persen dari total kasus penyakit ini \n\n
+
+Kondisi ini berawal dari pembuluh darah yang melemah, kemudian pecah dan menumpahkan darah ke sekitarnya. Darah yang bocor jadi menumpuk dan menghambat jaringan otak di sekitarnya. Kematian atau koma panjang akan terjadi jika pendarahan berlanjut. \n\n
+
+Ada dua jenis stroke hemoragik. Pertama adalah aneurisma, yang menyebabkan sebagian pembuluh darah melemah hingga mengembang layaknya balon dan kadang pecah. Lalu  lainnya adalah malformasi arteriovenosa, yaitu kondisi pembuluh darah yang terbentuk secara abnormal. Jika pembuluh darah semacam itu pecah, bisa menyebabkan stroke hemoragik. \n\n
+
+3. Stroke ringan \n\n
+
+Transient ischemic attack (TIA) atau sering disebut stroke ringan adalah kekurangan darah pada sistem saraf yang berlangsung singkat, biasanya kurang dari 24 jam atau bahkan hanya dalam beberapa menit. Kondisi ini terjadi saat bagian otak tidak mendapat pasokan darah yang cukup. Anda memiliki risiko stroke ringan yang lebih tinggi apabila Anda pernah mengalami transient ischemic attack. \n\n
+            Tanda-tanda &amp; gejala \n
+Apa saja tanda-­tanda dan gejala stroke? \n
+Gejala stroke cenderung terjadi secara tiba-tiba dan hanya selalu menyerang satu sisi bagian tubuh. Hal ini semakin memburuk dalam jangka waktu 24 sampai 72 jam. Gejala yang biasa terjadi termasuk: \n\n
+
+• Sakit kepala tiba-tiba \n
+•  Kehilangan keseimbangan, bermasalah dengan berjalan \n
+• Kelelahan \n
+• Kehilangan kesadaran atau koma \n
+• Vertigo dan pusing \n
+• Penglihatan yang buram dan menghitam \n
+• Kelemahan atau mati rasa pada satu sisi bagian tubuh di wajah, tangan, kaki \n
+• Adanya masalah dengan berbicara dan pendengaran. \n\n
+            Kemungkinan ada tanda-­tanda dan gejala stroke yang tidak disebutkan di atas. Bila Anda memiliki kekhawatiran akan sebuah gejala tertentu, konsultasikanlah dengan dokter Anda. \n\n
+
+            Penyebab \n
+Apa penyebab stroke? \n\n
+Penyebab stroke dapat terjadi akibat: \n\n
+
+• Penyebab stroke iskemik: \n
+            Kondisi ini terjadi ketika darah yang membeku menyumbat pembuluh darah. Jenis ini merupakan jenis yang biasa terjadi pada orang lanjut usia. \n\n
+• Penyebab stroke hemoragik: \n
+            Kondisi ini terjadi ketika pembuluh darah di dalam otak bocor atau pecah sehingga darah mengalir ke dalam otak atau ke permukaan otak. Jenis stroke ini tidak seumum iskemik namun lebih mematikan. \n\n
+• Penyebab stroke ringan: \n
+            Kondisi ini terjadi ketika plak atau darah yang beku  pada pembuluh arteri menghambat pembuluh darah yang memasok darah ke otak. Kondisi ini menyebabkan aliran darah ke otak menjadi tersumbat dan menimbulkan kondisi ini terjadi.
+        </item>
+
+        <item>Definisi \n
+Apa itu hipertensi (tekanan darah tinggi)?\n\n
+Hipertensi adalah nama lain dari tekanan darah tinggi. Tekanan darah itu sendiri adalah kekuatan aliran darah dari jantung yang mendorong dinding pembuluh darah (arteri). Kekuatan tekanan darah ini bisa berubah dari waktu ke waktu, dipengaruhi oleh aktivitas apa yang sedang dilakukan jantung (misalnya sedang berolahraga atau dalam keadaan normal/istirahat) dan daya tahan pembuluh darahnya. \n\n
+
+Hipertensi adalah kondisi di mana tekanan darah lebih tinggi dari 140/90 milimeter merkuri (mmHG). Angka 140 mmHG merujuk pada bacaan sistolik, ketika jantung memompa darah ke seluruh tubuh. Sementara itu, angka 90 mmHG mengacu pada bacaan diastolik, ketika jantung dalam keadaan rileks sembari mengisi ulang bilik-biliknya dengan darah.\n\n
+
+Perlu diketahui bahwa tekanan sistolik adalah tekanan maksimal karena jantung berkontraksi, sementara tekanan diastolik adalah tekanan terendah di antara kontraksi (jantung beristirahat). \n\n
+
+Berapa seharusnya tekanan darah normal?
+Memahami angka tekanan darah normal tidaklah mudah, terutama dengan istilah seperti “sistolik”, “diastolik”, dan “milimeter merkuri” (mmHg). Namun, jika Anda ingin menjaga tekanan darah tetap terkontrol, penting untuk mengetahui apa yang dianggap normal, dan kapan tekanan darah dikatakan terlalu tinggi alias hipertensi.\n\n
+
+Tekanan darah normal berkisar di angka 120/80 mmHG. Saat angka sistolik dan diastolik berada di kisaran ini, maka Anda dapat disebut memiliki tekanan darah normal. Seseorang baru disebut memiliki darah tinggi atau mengidap hipertensi jika hasil pembacaan tekanan darah menunjukkan 140/90 mmHG. Tekanan darah yang terlalu tinggi akan mengganggu sirkulasi darah.\n\n
+
+Namun begitu, memiliki tekanan darah normal bukan berarti Anda bisa bersantai. Saat angka sistolik Anda berada di antara 120-139, atau jika angka diastolik (angka bawah) berkisar di 80-89, ini artinya Anda memiliki “prehipertensi”. Meskipun angka ini belum bisa dianggap hipertensi, tetap saja ini di atas angka normal. Orang-orang yang sehat juga dianjurkan untuk melakukan langkah pencegahan untuk menjaga agar tekanan darah tetap berada di kisaran normal, sekaligus menghindari risiko hipertensi dan penyakit jantung. \n\n
+
+Apabila pembacaan tekanan darah Anda berada di atas 180/110 mmHg, atau jika memiliki tekanan sistolik ATAU diastolik yang lebih tinggi dari angka ini, Anda berisiko menghadapi masalah kesehatan yang sangat serius. Angka ini menunjukkan kondisi yang disebut krisis hipertensi. Jika tekanan darah Anda sampai setinggi ini, dokter biasanya akan mengukur kembali setelah beberapa menit. Jika masih sama tingginya, Anda akan segera diberi obat darah tinggi darurat. \n\n
+        Ciri-ciri &amp; gejala \n
+Apa saja ciri-ciri dan gejala hipertensi (tekanan darah tinggi)?\n
+Penderita hipertensi biasanya tidak menunjukkan ciri apapun atau hanya mengalami gejala ringan. Namun secara umum, gejala hipertensi adalah: \n \n
+
+• Sakit kepala parah
+• Pusing
+• Penglihatan buram
+• Mual
+• Telinga berdenging
+• Kebingungan
+• Detak jantung tak teratur
+• Kelelahan
+• Nyeri dada
+• Sulit bernapas
+• Darah dalam urin
+• Sensasi berdetak di dada, leher, atau telinga \n\n
+Mungkin masih ada gejala lain yang tidak tercantum di atas. Konsultasikan kepada dokter untuk informasi lebih lengkap. \n\n
+        Penyebab \n
+Apa penyebab hipertensi (tekanan darah tinggi)?\n
+Hipertensi yang penyebabnya tidak jelas disebut hipertensi primer. Tapi tekanan darah tinggi juga bisa disebabkan oleh gaya hidup dan pola makan yang buruk.\n
+
+Ambil contoh, merokok. Merokok satu batang saja dapat menyebabkan lonjakan langsung dalam tekanan darah dan dapat meningkatkan kadar tekanan darah sistolik sebanyak 4 mmHG. Nikotin dalam produk tembakau memacu sistem saraf untuk melepaskan zat kimia yang dapat menyempitkan pembuluh darah dan berkontribusi terhadap tekanan darah tinggi.\n\n
+
+Kebanyakan makan makanan asin, yang mengandung natrium (makanan olahan, makanan kalengan, fast food), dan makanan atau minuman yang mengandung pemanis buatan juga dapat meningkatkan kolesterol dan/atau tekanan darah tinggi.\n\n
+
+Tekanan darah tinggi juga bisa muncul sebagai efek samping obat gagal ginjal dan perawatan penyakit jantung. Kondisi ini disebut hipertensi sekunder. Pil KB atau obat flu yang dijual di toko obat juga bisa menyebabkan tekanan darah tinggi. Wanita hamil atau yang menggunakan terapi pengganti hormon mungkin juga mengalami tekanan darah tinggi.\n\n
+
+Tekanan darah tinggi karena obat mungkin menjadi normal setelah berhenti minum obat, tapi dalam beberapa kasus, tekanan darah masih meningkat selama beberapa minggu setelah menghentikan penggunaan obat. Anda harus bertanya kepada dokter jika tekanan darah abnormal terus terjadi.\n\n
+
+Anak di bawah 10 tahun sering kali mengalami tekanan darah tinggi karena penyakit lain, misalnya penyakit ginjal. Dalam kasus tersebut, tekanan darah anak akan kembali normal setelah mengonsumsi obat darah tinggi.</item>
+
+    <item>Definisi \n
+Apa itu serangan jantung? \n
+Serangan jantung adalah kondisi yang terjadi ketika aliran darah yang kaya akan oksigen tiba-tiba terhambat ke otot jantung, sehingga jantung tidak mendapat oksigen.  Jika aliran darah tidak dipulihkan dengan cepat, bagian dari otot jantung akan mulai mati. Kondisi ini, juga disebut dengan infark miokard, adalah kejadian gawat darurat yang dapat berakibat fatal jika tidak ditangani secepatnya. \n\n
+Tanda-tanda &amp; gejala \n
+Apa saja tanda-tanda dan gejala serangan jantung? \n
+Serangan jantung adalah kondisi yang gejalanya cukup bisa dirasakan. Dada terasa nyeri seperti tertimpa benda berat (dari sedang hingga parah) adalah gejala yang paling umum. Rasa sakit juga dapat terjadi di rahang, pundak atau lengan (terutama lengan sebelah kiri). Rasa nyeri sering kali digambarkan seperti diremas, berat, atau tertekan. Gejala lain yang termasuk: \n\n
+
+• Berkeringat
+• Napas pendek
+• Tekanan jantung yang cepat atau tidak beraturan
+• Mual
+• Gangguan pencernaan \n\n
+Wanita dan penderita diabetes mungkin mempunyai gejala yang berbeda dibandingkan pria, seperti napas pendek yang tidak disertai rasa nyeri. Ada beberapa tanda atau gejala yang tidak tercantum di atas. Jika Anda memiliki kekhawatiran terhadap gejala-gejala tersebut, mohon konsultasikan dengan dokter Anda.\n\n
+Penyebab \n
+Apa yang menyebabkan serangan jantung ? \n
+Serangan jantung adalah kondisi yang bisa disebabkan oleh penyakit jantung koroner. Kondisi ini muncul ketika zat lilin yang disebut plak menumpuk di dalam arteri koroner. Arteri inilah yang menyalurkan darah yang kaya akan oksigen ke jantung. Saat plak menumpuk di dalam arteri selama bertahun-tahun, kondisi ini disebut juga dengan aterosklerosis. Pada akhirnya, area plak itu sendiri dapat pecah (terbuka) di dalam arteri dan menyebabkan terbentuknya gumpalan darah pada permukaan plak. \n\n
+
+Penyebab lain terjadinya serangan jantung tapi kurang umum adalah spasme hebat (penyempitan) pada arteri koroner yang memotong aliran darah. Spasme dapat terjadi di arteri koroner yang tidak terpengaruh oleh aterosklerosis. Kondisi ini biasanya terjadi karena penggunaan rokok atau obat-obatan terlarang seperti kokain.\n\n
+
+Di samping itu, serangan jantung dapat juga terjadi karena adanya robekan di arteri jantung (pemotongan arteri koroner secara spontan).</item>
+
+        <item>Apa itu nyeri sendi? \n
+Nyeri sendi dapat terjadi pada banyak bagian tubuh yang berbeda-beda seperti jari-jari, pergelangan tangan, ibu jari ataupun lutut dan cenderung mengakibatkan kekakuan, lunak dan pembengkakan. Nyeri sendi, artritis atau neoartritis (penyakit artritis yang paling umum) dapat berperan dalam proses peradangan untuk satu atau lebih nyeri sendi yang terjadi dengan beberapa cara. \n\n
+
+Untuk contohnya, pada osteoarthritis, sendi tulang rawan itu rusak dan kemampuan tulang rawan (jaringan halus yang mendasari sendi-sendi) untuk menyembuhkan dirinya sendiri menurun, mengakibatkan hilangnya tulang rawan dari waktu ke waktu. Tulang yang terkena akan bergesekan bersama-sama mengakibatkan peradangan, rasa nyeri dan pertumbuhan tulang yang menonjol pada sendi membuat sendi menjadi kaku dan sulit untuk bergerak. \n\n
+
+Jenis sendi-sendi yang sering mengalami nyeri adalah sacroiliac, lutut, pinggul dan sendi bahu. Sendi sacroiliac terletak di antara tulang pinggul dan tulang iliac ((tulang pelvis/panggul). Sendi tersebut berada di bawah lumbar spinal dan di atas tulang ekor (coccyx) dan menyalurkan semua tenaga bagian atas tubuh ke bagian tulang pinggang, pinggul dan kaki. Nyeri sendi pinggul dapat terjadi secara tiba-tiba dan pendek (akut) atau biasa dan bertahan lama (kronis). Nyeri sendi bahu cenderung tidak begitu jelas dan merupakan akibat dari peradangan atau kerusakan pada tulang dan tendon di sekitar bahu dan ketegangan di otot-otot yang terletak di antara leher dan bahu. Dari semua sendi, sendi lutut mungkin yang sering kali rusak dan rentan terhadap penyakit. \n\n
+
+        Bagaimana pengaruh nyeri sendi kepada Anda? \n
+Sebagai bagian dari gerakan yang dilakukan setiap hari, sendi secara terus menerus berhadapan dengan tekanan dan kerusakan. Sendi lutut merupakan bagian utama yang mudah mengalami kerusakan dan rasa nyeri karena lutut menopang tubuh dan tekanan ketika berlari atau melompat. Kebanyakan orang akan menderita nyeri lutut ketika mereka bertambah tua, dan orang-orang yang memiliki kelebihan berat badan atau yang melakukan banyak olahraga memiliki peluang lebih besar untuk menderita nyeri di lutut mereka. Sebagai contoh adalah pelari yang cenderung menderita nyeri lutut dan pergelangan kaki karena olah raga yang mereka tekuni melibatkan benturan keras ke tanah setiap saat. Kadang-kadang nyeri di lutut bisa menjalar ke kaki dan Anda mungkin akan merasa tertusuk dan mati rasa. \n\n
+
+Mereka yang menderita nyeri sendi sacroiliac akan dapat merasakan ketidaknyamanan ketika mereka membengkokkan badan atau berdiri setelah duduk dalam waktu yang lama. Rasa nyeri akan dapat menjalar ke pinggul, menyebabkan ketidakmampuan untuk melakukan kegiatan-kegiatan fisik. Nyeri sendi pinggul biasanya dirasakan di pangkal pahanamun nyeri tersebut juga bisa menyebabkan rasa nyeri di bokong dan dapat merasa lebih nyeri ketika berdiri dari tempat duduk dan menaiki tangga. Nyeri lutut dapat membuat seseorang tidak dapat melakukan kegiatan sehari-hari seperti berjalan, menaiki tangga bahkan membawa sesuatu yang berat. Orang-orang dengan nyeri sendi bahu akan mengalami kesulitan mengangkat barang-barang,merasakan rasa nyeri yang lebih parah pada malam hari dan mengalami bahu yang membeku, kondisi yang ditandai oleh kekakuan dan nyeri di sendi bahu Anda.\n\n
+
+Penyebab\n
+Penyebab umum dari nyeri sendi yaitu osteoartritis, terpeleset, patah yang disebabkan oleh luka atau kecelakaan. Faktor risiko yang meningkatkan kemungkinan akan nyeri sendi adalah sendi yang sebelumnya rusak oleh luka atau operasi, kecenderungan genetis, struktur bagian sendi yang terkena dan kegemukan dimana sendi berpeluang untuk nyeri.</item>
+
+        <item>Definisi\n
+Apa itu osteoporosis?\n
+Osteoporosis atau pengeroposan tulang adalah penipisan dan hilangnya densitas tulang (massa tulang) yang berkelanjutan, yang membuat tulang menjadi lebih keropos, rapuh, dan mudah patah akibat trauma kecil. Penurunan tinggi badan dan nyeri punggung sering terjadi. Wanita lebih berisiko osteoporosis setelah masa menstruasinya berakhir (menopause). Patah tulang akibat osteoporosis lebih sering terjadi pada panggul, pergelangan tangan atau tulang belakang, namun semua tulang dapat terkena. Beberapa tulang yang sudah rusak tidak dapat sembuh, khususnya tulang panggul.\n\n
+
+Osteoporosis merupakan penyakit yang sering tidak terdeteksii dan tidak diketahui hingga tulang patah. Banyak orang berpikir bahwa osteoporosis terjadi secara alami dan tidak dapat dihindari karena bagian dari penuaan. Meski begitu, ahli medis menyakini osteoporosis dapat dicegah. Terlebih lagi, orang yang sudah menderita osteoporosis dapat melakukan pencegahan atau memperlambat perkembangan penyakit dan menurunkan risiko akan patah tulang berikutnya.\n\n
+Tanda-tanda &amp; gejala\n
+Apa saja tanda-tanda dan gejala osteoporosis?\n
+Pada awal penyakit, tidak ada gejala, namun seiring berjalannya waktu, muncul nyeri punggung bawah dan nyeri leher, postur bungkuk, dan penurunan tinggi badan secara bertahap. Pada kasus lain tanda awal yaitu patah tulang (iga, pergelangan tangan, atau panggul). Tulang belakang dapat patah (menjadi lebih rata terkompresi) dan patah, yang merupakan patah tulang tersering. Patah tulang panggul dapat menyebabkan cacat terparah.\n\n
+
+Kemungkinan ada tanda-tanda dan gejala yang tidak disebutkan di atas. Bila Anda memiliki kekhawatiran akan sebuah gejala tertentu, konsultasikanlah dengan dokter Anda.\n\n
+            Penyebab\n
+Apa penyebab osteoporosis?\n
+Pembentukan tulang normal membutuhkan mineral kalsium dan fosfat. Jika tubuh kekurangan kalsium dari makanan, produksi tulang dan jaringan tulang dapat terganggu.\n\n
+
+Penyebab utama osteoporosis yaitu penuaan, yang menyebabkan penurunan estrogen pada wanita saat menopause dan penurunan testosteron (hormon pria) pada laki-laki.\n\n
+
+Tulang Anda selalu melakukan pembaharuan – tulang baru dibuat dan tulang lama dirusak. Saat Anda muda, tubuh Anda membuat tulang baru lebih cepat dari perusakan tulang lama dan massa tulang Anda bertambah. Kebanyakan orang mencapai massa tulang puncaknya saat berusia 20an. Akibat penuaan, massa tulang lebih cepat rusak dibanding pembentukannya.\n\n
+
+Kemungkinan Anda menderita osteoporosis tergantung pada banyak massa tulang yang Anda capai saat masih muda. Semakin tinggi massa tulang puncak Anda, semakin banyak tulang yang Anda “simpan” dan semakin sedikit kemungkinan Anda menderita osteoporosis saat penuaan.
+</item>
+        <item>Definisi\n
+Apa itu penyakit Alzheimer?\n
+
+Penyakit Alzheimer adalah penyakit progresif atau perlahan-lahan yang ditandai dengan penurunan daya ingat, kemampuan berpikir, serta perubahan perilaku dalam menjalani kehidupan sehari-hari. Penyakit ini membuat jaringan otak rusak seiring berjalannya waktu. \n\n
+
+Biasanya penyakit ini dimulai dengan gejala pikun ringan seperti mudah lupa tentang kejadian-kejadian yang belum lama dilalui. Kemudian lambat laun, gejala lain bisa muncul termasuk kerap terlihat bingung, kesulitan berkomunikasi, mengalami gangguan kecemasan dan perubahan suasana hati yang dramatis, bahkan tidak mampu lagi melakukan aktivitas tanpa dibantu orang lain.\n\n
+
+Rata-rata pasien Alzheimer hanya dapat hidup selama 8-10 tahun setelah terdiagnosis. Namun, ada keadaan tertentu di mana pasien bisa hidup lebih lama jika cepat terdeteksi dan terobati. Walaupun penyakit ini biasanya bukan karena faktor genetik, tapi jika ada anggota keluarga yang sakit, Anda lebih berisiko terkena penyakit Alzheimer.\n\n
+        Tanda-tanda &amp; gejala\n
+Apa saja tanda dan gejala penyakit Alzheimer?\n
+Umumnya, gejala penyakit Alzheimer terbagi dalam tiga tahap, yaitu tahap awal, tahap pertengahan, dan tahap akhir.\n\n
+
+Tahap awal\n\n
+
+Pada tahap awal, tanda dan ciri-ciri penyakit Alzheimer adalah:\n\n
+
+• Sering lupa nama tempat dan benda.\n
+• Sering lupa dengan percakapan yang belum lama dibicarakan.\n
+• Sering menanyakan pertanyaan yang sama atau menceritakan cerita yang sama berulang kali.\n
+• Sering merasa lebih sulit untuk membuat keputusan.\n
+• Sering merasa bingung atau linglung.\n
+• Sering tersesat di tempat yang sering dilewati.\n
+• Sering salah menaruh barang di tempat yang tidak seharusnya, misalnya menaruh piring di mesin cuci.\n
+• Kesulitan dalam merangkai kata-kata dalam berkomunikasi.\n
+• Tidak tertarik untuk melakukan aktivitas yang dulunya sangat disukai\n
+• Lebih senang berdiam diri dan enggan mencoba hal baru\n
+• Sering mengalami perubahan suasana hati yang berubah-ubah\n
+Tahap pertengahan\n\n
+
+Pada tahap pertengahan, tanda dan ciri-ciri penyakit Alzheimer adalah:\n\n
+
+• Sulit mengingat nama keluarga atau teman-teman terdekatnya.\n
+• Meningkatkan rasa kebingungan dan disorientasi, misalnya jadi sering tersesat dan tidak tahu jam berapa sekarang.\n
+• Perubahan suasana hati yang terjadi secara cepat.\n
+• Perilaku impulsif, repetitif, atau obsesif.\n
+• Mulai mengalami delusi dan halusinasi.\n
+• Masalah dengan berkomunikasi.\n
+• Kesulitan melakukan tugas tata ruang, seperti menilai jarak.\n
+• Pada tahap ini, seseorang yang mengalami penyakit Alzheimer biasanya membutuhkan dukungan orang lain untuk membantu mereka dalam melakukan aktivitas sehari-hari. Misalnya mereka mungkin butuh bantuan untuk makan, berpakaian, atau bahkan menggunakan toilet.\n\n
+
+Tahap akhir\n\n
+
+Di tahap terakhir, tanda dan ciri-ciri penyakit Alzheimer adalah:\n\n
+
+• Kesulitan makan dan menelan (disfagia).\n
+• Kesulitan untuk mengubah posisi atau bergerak tanpa bantuan.\n
+• Penurunan atau kenaikan berat badan yang drastis.\n
+• Sering ngompol atau buang air besar tidak disengaja.\n
+• Kesulitan berkomunikasi.\n
+• Perubahan emosi dan sifat.\n
+• Tidak mampu lagi beraktivitas normal akibat hilangnya ingatan mengenai tahapan melakukan aktivitas sehari-hari seperti mandi, makan, dan  buang air besar.\n
+• Tingkat perkembangan gejala penyakit Alzheimer berbeda-beda pada tiap orang, tapi umumnya gejala akan berkembang secara perlahan-lahan selama beberapa tahun. Mungkin masih ada gejala lain yang tidak tercantum. Jika ada pertanyaan tentang tanda-tanda penyakit, konsultasi dengan dokter.\n
+
+</item>
+    </string-array>
+
+
+</resources>
